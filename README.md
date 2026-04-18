@@ -2,8 +2,11 @@
   <img src="https://render.gitanimals.org/farms/{se0sangh0}"/>
 </a>
 
+<br>
+<br><br><br>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjdgkwlsdls)]
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cjdgkwlsdls)
 <!--
 **se0sangh0/se0sangh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
