@@ -2,6 +2,10 @@
   <img src="https://render.gitanimals.org/farms/{se0sangh0}"/>
 </a>
 
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?se0sangh0=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **se0sangh0/se0sangh0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
