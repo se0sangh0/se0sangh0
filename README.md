@@ -8,8 +8,8 @@
 - **[게임·시스템 기획 포트폴리오](https://se0sangh0.github.io/portfolio/)**  
   대표 프로젝트와 제가 맡은 부분, 수상·활동을 한 번에 볼 수 있습니다. 최신 PDF는 페이지 우측 상단의 저장 버튼으로 만들 수 있습니다.
 
-- **[괴이탐사국](https://github.com/se0sangh0/capstone-dark-horror-deckbuilder)**  
-  다크 호러 로그라이크 탐험과 공용 카드 스택 기반 자동 전투를 결합한 Unity 캡스톤 프로젝트입니다.
+- **[괴이탐사국](https://github.com/se0sangh0/inspector)**  
+  팀578의 팀장·기획 총괄로 진행 중인 다크 호러 로그라이크 덱빌딩 오토배틀러 프로젝트입니다.
 
 - **ThermoGuard**  
   열화상 모니터링 팀 프로젝트에서 통합 GUI, GigE 카메라 연결, FastAPI·DB·데이터 흐름 정리와 Linux 실행·패키징 구조 구성을 진행했습니다.
